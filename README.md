@@ -5,5 +5,5 @@ I'm [Erlend Tregde](https://github.com/ErlendTregde), and I'm passionate about g
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ErlendTregde/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Erlend Tregde/)
 
