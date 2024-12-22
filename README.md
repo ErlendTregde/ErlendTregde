@@ -16,14 +16,26 @@ Feel free to connect with me and explore my professional journey:
 ## 🛠️ Technologies & Tools  
 
 ### 🚀 Programming Languages  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg "C")  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++")  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#")  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+</a>  
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+</a>  
+<a href="https://www.w3.org/html/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C Sharp" width="30" height="30"/>
+</a>  
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+</a>  
 
 ### 🌐 Web Development  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+</a>  
+<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+</a>  
 
 ---
 
