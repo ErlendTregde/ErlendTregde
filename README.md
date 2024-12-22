@@ -1,37 +1,45 @@
-### Hi my name is Erlend Tregde
+# 🌟 Welcome to My GitHub!  
 
-I'm [Erlend Tregde](https://github.com/ErlendTregde), and I'm passionate about gaming and general pc stuff.
+Hi there! I'm **Erlend Tregde** – a passionate software developer, gamer, and tech enthusiast. I love diving into complex problems, creating innovative solutions, and exploring the endless possibilities of programming. Whether it's game development, machine learning, or web development, I’m always ready to take on new challenges!  
 
-## 🔗 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erlend-tregde-0a85ba24a/)
+## 🔗 Let's Connect  
 
-## Code stuff:
-<a href="https://www.w3.org/html/" target="_blank"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40"/> </a>
+Feel free to connect with me and explore my professional journey:  
 
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlend-tregde-0a85ba24a/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErlendTregde)  
 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
+---
 
-<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-</a>
+## 🛠️ Technologies & Tools  
 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-</a>
+### 🚀 Programming Languages  
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg "C")  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++")  
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#")  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
 
+### 🌐 Web Development  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+---
 
+## 🎮 What I’m Working On  
 
+- **Game Development**: Combining creativity and technology to build fun and engaging games.  
+- **Machine Learning Projects**: Leveraging AI to solve real-world problems.  
+- **Web Development**: Building responsive and user-friendly websites.  
 
+---
 
+## 📈 GitHub Stats  
 
+![Erlend's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErlendTregde&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErlendTregde&layout=compact&theme=radical)  
+
+---
+
+✨ Thanks for stopping by! Feel free to explore my repositories and connect if you find something interesting.
