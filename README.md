@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub!  
 
-Hi there! I'm **Erlend Tregde** – a passionate software developer, gamer, and tech enthusiast. I love diving into complex problems, creating innovative solutions, and exploring the endless possibilities of programming. Whether it's game development, machine learning, or web development, I’m always ready to take on new challenges!  
+Hi there! I'm **Erlend Tregde** – a passionate software developer, gamer, and tech enthusiast.
 
 ---
 
