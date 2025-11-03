@@ -12,8 +12,6 @@ Feel free to connect with me and explore my professional journey:
 Try a demo at my snufkin game [here](https://www.erlendtregde.me/snufkin-game/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlend-tregde-0a85ba24a/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErlendTregde)  
-
 ---
 
 ## 🛠️ Technologies & Tools  
