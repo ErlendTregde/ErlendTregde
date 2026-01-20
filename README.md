@@ -7,9 +7,9 @@ Hi there! I'm **Erlend Tregde** – a passionate software developer, gamer, and 
 ## 🔗 Let's Connect  
 
 Feel free to connect with me and explore my professional journey: 
-[Portfolio](http://erlendtregde.me./)
+[Portfolio](https://erlendtregde.github.io/)
 
-Try a demo at my snufkin game [here](https://www.erlendtregde.me/snufkin-game/)
+Try a demo at my snufkin game [here](https://erlendtregde.github.io/snufkin-game/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlend-tregde-0a85ba24a/)  
 ---
